@@ -1,6 +1,6 @@
 # REACT MARKDOWN EDITOR
 
-This is a 5 minute fun project to create a React Markdown Editor. This project uses the famous react-markdown library. 
+This is a 5 minute fun project to create a React Markdown Editor. This project uses the famous react-markdown library. The project is on the master branch. 
 
 ### Usage
 
